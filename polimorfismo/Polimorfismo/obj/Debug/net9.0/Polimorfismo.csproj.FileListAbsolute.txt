@@ -1,0 +1,15 @@
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\bin\Debug\net9.0\Polimorfismo.exe
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\bin\Debug\net9.0\Polimorfismo.deps.json
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\bin\Debug\net9.0\Polimorfismo.runtimeconfig.json
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\bin\Debug\net9.0\Polimorfismo.dll
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\bin\Debug\net9.0\Polimorfismo.pdb
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\obj\Debug\net9.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\obj\Debug\net9.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\obj\Debug\net9.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\obj\Debug\net9.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\obj\Debug\net9.0\Polimorfismo.sourcelink.json
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\obj\Debug\net9.0\Polimorfismo.dll
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\obj\Debug\net9.0\refint\Polimorfismo.dll
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\obj\Debug\net9.0\Polimorfismo.pdb
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\obj\Debug\net9.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\polimorfismo\polimorfismo\obj\Debug\net9.0\ref\Polimorfismo.dll
