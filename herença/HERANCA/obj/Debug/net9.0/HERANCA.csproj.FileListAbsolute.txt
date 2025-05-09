@@ -1,0 +1,15 @@
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\bin\Debug\net9.0\HERANCA.exe
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\bin\Debug\net9.0\HERANCA.deps.json
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\bin\Debug\net9.0\HERANCA.runtimeconfig.json
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\bin\Debug\net9.0\HERANCA.dll
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\bin\Debug\net9.0\HERANCA.pdb
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\obj\Debug\net9.0\HERANCA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\obj\Debug\net9.0\HERANCA.AssemblyInfoInputs.cache
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\obj\Debug\net9.0\HERANCA.AssemblyInfo.cs
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\obj\Debug\net9.0\HERANCA.csproj.CoreCompileInputs.cache
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\obj\Debug\net9.0\HERANCA.sourcelink.json
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\obj\Debug\net9.0\HERANCA.dll
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\obj\Debug\net9.0\refint\HERANCA.dll
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\obj\Debug\net9.0\HERANCA.pdb
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\obj\Debug\net9.0\HERANCA.genruntimeconfig.cache
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\herença\HERANCA\obj\Debug\net9.0\ref\HERANCA.dll
