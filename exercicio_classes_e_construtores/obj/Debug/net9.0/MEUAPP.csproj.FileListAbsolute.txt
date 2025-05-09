@@ -1,0 +1,15 @@
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\bin\Debug\net9.0\MEUAPP.exe
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\bin\Debug\net9.0\MEUAPP.deps.json
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\bin\Debug\net9.0\MEUAPP.runtimeconfig.json
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\bin\Debug\net9.0\MEUAPP.dll
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\bin\Debug\net9.0\MEUAPP.pdb
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\obj\Debug\net9.0\MEUAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\obj\Debug\net9.0\MEUAPP.AssemblyInfoInputs.cache
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\obj\Debug\net9.0\MEUAPP.AssemblyInfo.cs
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\obj\Debug\net9.0\MEUAPP.csproj.CoreCompileInputs.cache
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\obj\Debug\net9.0\MEUAPP.sourcelink.json
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\obj\Debug\net9.0\MEUAPP.dll
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\obj\Debug\net9.0\refint\MEUAPP.dll
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\obj\Debug\net9.0\MEUAPP.pdb
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\obj\Debug\net9.0\MEUAPP.genruntimeconfig.cache
+C:\Users\ericf\source\repos\ConsoleApp1\exercicio_classes_e_construtores\MEUAPP\obj\Debug\net9.0\ref\MEUAPP.dll
