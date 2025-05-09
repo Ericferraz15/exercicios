@@ -83,11 +83,11 @@ class Funcionario
         if (percentual > 0)
         {
             salario += salario * percentual / 100;
-            Console.WriteLine($"{nome} teve aumento. Novo salário: R$ {salario:F2}");
+            Console.WriteLine($"{nome} teve um aumento. Novo salário: R$ {salario:F2}");
         }
         else
         {
-            Console.WriteLine("Percentual inválido para aumento.");
+            Console.WriteLine("Percentual inválido para aumento salarial.");
         }
     }
 }
